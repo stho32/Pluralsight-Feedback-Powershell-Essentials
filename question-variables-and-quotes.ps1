@@ -16,3 +16,7 @@ $variable = "World"
 Write-Host "Hello $variable"
 Write-Host 'Hello $variable'
 
+<# 
+    As you can see the variable is not replaced in the single quote string.
+#>
+
